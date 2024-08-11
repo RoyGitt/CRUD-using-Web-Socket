@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Roy",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.7.5"
+  }
+}
